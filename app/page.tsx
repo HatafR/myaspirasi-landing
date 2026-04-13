@@ -48,7 +48,7 @@ export default function Home() {
     developers: [
       {
         name: "Parikesit",
-        role: "Senior Fullstack Developer",
+        role: "Fullstack Developer",
         photo: "/parikesit.jpg"
       },
       {
